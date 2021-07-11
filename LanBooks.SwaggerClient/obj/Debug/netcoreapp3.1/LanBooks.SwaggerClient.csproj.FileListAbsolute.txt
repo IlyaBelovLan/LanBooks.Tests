@@ -1,0 +1,9 @@
+C:\Users\Илья Муромец\source\repos\LanBooks.Tests\LanBooks.SwaggerClient\bin\Debug\netcoreapp3.1\LanBooks.SwaggerClient.deps.json
+C:\Users\Илья Муромец\source\repos\LanBooks.Tests\LanBooks.SwaggerClient\bin\Debug\netcoreapp3.1\LanBooks.SwaggerClient.dll
+C:\Users\Илья Муромец\source\repos\LanBooks.Tests\LanBooks.SwaggerClient\bin\Debug\netcoreapp3.1\LanBooks.SwaggerClient.pdb
+C:\Users\Илья Муромец\source\repos\LanBooks.Tests\LanBooks.SwaggerClient\obj\Debug\netcoreapp3.1\LanBooks.SwaggerClient.csproj.AssemblyReference.cache
+C:\Users\Илья Муромец\source\repos\LanBooks.Tests\LanBooks.SwaggerClient\obj\Debug\netcoreapp3.1\LanBooks.SwaggerClient.AssemblyInfoInputs.cache
+C:\Users\Илья Муромец\source\repos\LanBooks.Tests\LanBooks.SwaggerClient\obj\Debug\netcoreapp3.1\LanBooks.SwaggerClient.AssemblyInfo.cs
+C:\Users\Илья Муромец\source\repos\LanBooks.Tests\LanBooks.SwaggerClient\obj\Debug\netcoreapp3.1\LanBooks.SwaggerClient.csproj.CoreCompileInputs.cache
+C:\Users\Илья Муромец\source\repos\LanBooks.Tests\LanBooks.SwaggerClient\obj\Debug\netcoreapp3.1\LanBooks.SwaggerClient.dll
+C:\Users\Илья Муромец\source\repos\LanBooks.Tests\LanBooks.SwaggerClient\obj\Debug\netcoreapp3.1\LanBooks.SwaggerClient.pdb
